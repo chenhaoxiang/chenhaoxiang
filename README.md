@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi 我是谙忆 👋
+
+**相关网站**  
+
+- [CSDN](https://chenhx.blog.csdn.net/) 
+
+**擅长**  
+
+<code>Java</code>
+<code>SaaS</code>
+
+[![chenhaoxiang's github stats](https://github-readme-stats.vercel.app/api?username=chenhaoxiang)](https://github.com/chenhaoxiang)
+
+<!-- <img height="150" src="https://pandafe.gitee.io/clock/img/wechat1.jpg" /> -->
+
 
 <!--
 **chenhaoxiang/chenhaoxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
