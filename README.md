@@ -9,7 +9,7 @@
 <code>Java</code>
 <code>SaaS</code>
 
-[![chenhaoxiang's github stats](https://github-readme-stats.vercel.app/api?username=chenhaoxiang)](https://github.com/chenhaoxiang)
+[![chenhaoxiang's github stats](https://github-readme-stats.vercel.app/api?username=chenhaoxiang&hide=prs,issues,contribs)](https://github.com/chenhaoxiang)
 
 <!-- <img height="150" src="https://pandafe.gitee.io/clock/img/wechat1.jpg" /> -->
 
