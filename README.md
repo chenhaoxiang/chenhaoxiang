@@ -9,10 +9,7 @@
 <code>Java</code>
 <code>SaaS</code>
 
-[![chenhaoxiang's github stats](https://github-readme-stats.vercel.app/api?username=chenhaoxiang&hide=prs,issues,contribs&count_private=true)](https://github.com/chenhaoxiang)
-
-<!-- <img height="150" src="https://pandafe.gitee.io/clock/img/wechat1.jpg" /> -->
-
+[![chenhaoxiang's github stats](https://github-readme-stats.vercel.app/api?username=chenhaoxiang&hide=prs,issues,contribs&count_private=true&show_icons=true)](https://github.com/chenhaoxiang)
 
 <!--
 **chenhaoxiang/chenhaoxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
