@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<div id="ace-content" class="ace-container-shift">
+    <div class="ace-container">
+        <div id="ace-nav-wrap" class="hidden-sm hidden-xs">
+            <div class="ace-nav-cont">
+                <div id="ace-nav-scroll">
+                    <nav id="ace-nav" class="ace-nav">
+                        <ul class="clear-list">
+                            <li>
+                              <a href="index.html" data-tooltip="Home"><img class="avatar avatar-42" src="{{ '/styles/img/1723781963742.png' | prepend: site.baseurl }}" alt=""></a>
+                            </li>
+                            <li>
+                              <a href="#basic_info" data-tooltip="基本信息">信息</a>
+                            </li>
+
+                            <li>
+                                <a href="#start_business" data-tooltip="创业经历">创业</a>
+                            </li>
+                            <li>
+                              <a href="#experience" data-tooltip="工作经历">工作</a>
+                            </li>
+                            <li>
+                                <a href="#education" data-tooltip="教育经历">教育</a>
+                            </li>
+                            <li>
+                                <a href="#my_book" data-tooltip="出版著作">著作</a>
+                            </li>
+                            <li>
+                                <a href="#personal_project" data-tooltip="发明专利">专利</a>
+                            </li>
+                            <li>
+                              <a href="#certification" data-tooltip="其他">其他</a>
+                            </li>
+
+                        </ul>
+                    </nav>
+                </div>
+
+                <div id="ace-nav-tools" class="hidden">
+                    <span class="ace-icon ace-icon-dots-three-horizontal"></span>
+
+                    <button id="ace-nav-arrow" class="clear-btn">
+                        <span class="ace-icon ace-icon-chevron-thin-down"></span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- <div class="ace-nav-btm"></div> -->
+        </div><!-- .ace-nav-wrap -->
+
+        <div class="ace-paper-stock">
+            <main class="ace-paper clearfix">
+                <div class="ace-paper-cont clear-mrg">
+                    <!-- START: PAGE CONTENT -->
+                    <div class="padd-box clear-mrg">
+
+                    {% include resumer_01-basic.html %}
+
+                    {% include resumer_02-start_business.html %}
+
+                    {% include resumer_03-experience.html %}
+
+                        {% include resumer_04-education.html %}
+
+                    {% include resumer_05-book.html %}
+
+                    {% include resumer_06-personal_project.html %}
+
+                    {% include resumer_07-certification.html %}
+
+                    </div><!-- .padd-box -->
+                <!-- END: PAGE CONTENT -->
+                </div><!-- .ace-paper-cont -->
+            </main><!-- .ace-paper -->
+        </div><!-- .ace-paper-stock -->
+    </div><!-- .ace-container -->
+</div><!-- #ace-content -->
